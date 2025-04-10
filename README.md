@@ -16,7 +16,7 @@ Olá! Meu nome é Nayra Kethillyn, tenho 18 anos, concluí o Ensino Médio Integ
 
 ### Estou estudando no momento 
 <div style="display: inline_block">
-         <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" aling = "center"/>    
+         <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" aling = "center" height=12px width=12px/>    
 </div>
 <br>
 

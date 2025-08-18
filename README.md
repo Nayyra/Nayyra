@@ -18,10 +18,6 @@ Olá! Meu nome é Nayra Kethillyn, tenho 18 anos, concluí o Ensino Médio Integ
           </p>
 </div>
 
-### Estou estudando no momento 
-<div style="display: inline_block">
-         <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" aling = "center" height=50px width=50px/>    
-</div>
 <br>
 
 ![Nayyra GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayyra&show_icons=true&theme=radical)

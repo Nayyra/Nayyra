@@ -11,7 +11,7 @@ Olá! Meu nome é Nayra Kethillyn, tenho 18 anos, concluí o Ensino Médio Integ
           <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt= "css3" aling = "center" />
           <img src= https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white alt= "python" aling = "center" />          
           <img src= https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white alt= "Django" aling = "center" />
-          <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt= "C#" aling = "center" />
+          <img src="https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" align="center" />
 </div>
 
 ### Estou estudando no momento 

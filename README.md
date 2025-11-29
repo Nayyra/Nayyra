@@ -20,5 +20,9 @@ Olá! Meu nome é Nayra Kethillyn, tenho 18 anos, concluí o Ensino Médio Integ
 
 <br>
 
-![Nayyra GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayyra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayyra&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/Nayyra">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nayyra&show_icons=true&theme=radical&hide_border=true" alt="Nayyra GitHub stats" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayyra&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
